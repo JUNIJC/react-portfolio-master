@@ -96,15 +96,15 @@
     "projects": [
       {
         "title": "Doorfront.link",
-        "category": "Similar to linktr.ee built with PHP and Javascript",
+        "category": "Linktr.ee Clone built with PHP and Javascript",
         "image": "doorfront.jpg",
         "url": "http://doorfront.link/juni"
       },
       {
-        "title": "Amazon Clone",
-        "category": "Amazon Clone built with ReactJS",
-        "image": "amazonclone.jpg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
       }
     ]
   },
