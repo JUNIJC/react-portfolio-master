@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Joshua Junious",
+    "occupation": "Operations & IT Specialist @ the Washington State Military Department",
+    "description": "Im currently progressing towards a full stack development career. Thanks for checking out my portfolio! Hopefully we'll be collaborating soon. 😉 ",
+    "image": "juni.jpg",
+    "bio": "Hello! My name is Joshua, im currently 23 years old and attending college for computer science. I have been serving my country and state through the Army National Guard over the past 5 years. Currently I'm working for the Washington State Military Department providing technical support and assistance in synergy for daily operations. During my service I have gained a plethora of skills such as; leadership, perseverance, time management, communication & teamwork and so many more. These are valuable skills and I plan on building my software development career on that foundation. While theres always room for progress and improvement, I consider myself a Full Stack ReactJS Developer. I started coding along with Youtube tutorials years ago in middle school and decided that coding is something I wouldn't mind doing for life.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "juniousjosh@gmail.com",
+    "phone": "(253) 205-7683",
+    "address": {
+      "street": "",
+      "city": "Greater Seattle Area",
+      "state": "",
+      "zip": ""
+    },
+    "website": "https://doorfront.link/juni",
+    "resumedownload": "https://drive.google.com/file/d/1WzSeBfvMpntJIGw0dMgD5BxFTuamek0b",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/josh.juni.96/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/joshua-junious-3926b8169/",
+        "className": "fa fa-linkedin"
+      },
+    
+      {
+        "name": "github",
+        "url": "https://github.com/JUNIJC",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": " ",
+    "education": [
+      {
+        "school": "Tacoma Community College - Tacoma",
+        "degree": "Associate's Degree, Computer Science",
+        "graduated": "2019 - Present",
+        "description": "Extracurricular activities during this time includes; Black Student Union, Clever Programmers, volunteering for Conscious Crew, also have been studying for Security+ certificate."
+      }
+    ],
+    "work": [
+      {
+        "company": "Military Department",
+        "title": "Operations & Information Technology",
+        "years": "2019 - Present",
+        "description": "Additional information listed within resume."
+      },
+      {
+        "company": "Washington State Army National Guard",
+        "title": "Reconnaissance",
+        "years": "2015 - Present",
+        "description": "Additional information listed within resume."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "PHP",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "Firebase",
+        "level": "100%"
+      },
+      {
+        "name": "Mysql",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Doorfront.link",
+        "category": "Similar to linktr.ee built with PHP and Javascript",
+        "image": "doorfront.jpg",
+        "url": "https://www.doorfront.link/juni"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "amazonclone.jpg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
