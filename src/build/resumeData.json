@@ -7,7 +7,7 @@
     "bio": "Hello! My name is Joshua, im currently 23 years old and attending college for computer science. I have been serving my country and state through the Army National Guard over the past 5 years. Currently I'm working for the Washington State Military Department providing technical support and assistance in synergy for daily operations. During my service I have gained a plethora of skills such as; leadership, perseverance, time management, communication & teamwork and so many more. These are valuable skills and I plan on building my software development career on that foundation. While theres always room for progress and improvement, I consider myself a Full Stack ReactJS Developer. I started coding along with Youtube tutorials years ago in middle school and decided that coding is something I wouldn't mind doing for life.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "juniousjosh@gmail.com",
-    "phone": "(253) 205-7683",
+    "phone": "+1(253)200-5266",
     "address": {
       "street": "",
       "city": "Greater Seattle Area",
@@ -54,8 +54,14 @@
       },
       {
         "company": "Washington State Army National Guard",
-        "title": "Reconnaissance",
-        "years": "2015 - Present",
+        "title": "Avation Information Technology Specialist",
+        "years": "2015 - July 2021",
+        "description": "Additional information listed within resume."
+      }
+      {
+        "company": "Washington State Army National Guard",
+        "title": "Cav Scout",
+        "years": "2015 - July 2021",
         "description": "Additional information listed within resume."
       }
     ],
@@ -92,7 +98,7 @@
         "title": "Doorfront.link",
         "category": "Similar to linktr.ee built with PHP and Javascript",
         "image": "doorfront.jpg",
-        "url": "https://www.doorfront.link/juni"
+        "url": "http://doorfront.link/juni"
       },
       {
         "title": "Amazon Clone",
